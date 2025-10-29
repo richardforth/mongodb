@@ -21,7 +21,7 @@ Hopefully this repo helps out someone else too.
 
 1. All examples written for `mongo`, not `mongosh` commands.
 2. `hostname()` is legacy code that no longer works unless you install `snippet install mongocompat` but even then I have had issues. (You get a reference error when running `mongosh shell_script.js` but dont when you run load("shell_script.js")) 
-2. The email address for the publisher (feedback@samspublishing.com) bounces back (I tried to report point 3 below).
+2. The email address for the publisher (feedback@samspublishing.com) bounces back (I tried to report point 4 below).
 3. Figures 1.1 and 1.2 don't reflect their descriptions (I think they were meant to be BSON documents, not client server diagrams)
 4. FAQ page on the mongo site as referenced in Hour01 exercises no longer exists
 .. and as I find more I will update this list
