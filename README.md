@@ -3,7 +3,7 @@ A collection of scripts adapted from the 2014 book Sams Teach Yourself MongoDB i
 
 ## PreAmble
 
-It's 2025, I bought a book, I very quickly realised this book was out of date, published in 2014. Being stubborn and having the luxury of AI services like ChatGPT as I sidekick, I am persevering with this as a good learning exercise.
+It's 2025, I bought a book, I very quickly realised this book was out of date, published in 2014. Being stubborn and having the luxury of AI services like ChatGPT as my sidekick, I am persevering with this as a good learning exercise.
 
 ## AI Helper
 
@@ -11,7 +11,9 @@ I won't hide the fact that some of this code was probably generated using AI, al
 
 ## Regrets Much?
 
-If I had realised this book was published in 2014 I probably wouldn't have bought it, but I have now and Ive scrawled notes over the pages and won't return it. I'll persever and push my own code examples here, which may not be exactly the same code that was in the book, because, as I found out, it was written for the old `mongo` command, not the modern `mongosh` command (See known issues below).
+If I had realised this book was published in 2014 I probably wouldn't have bought it, but I have now and Ive scrawled notes over the pages and won't return it. I'll persevere and push my own code examples here, which may not be exactly the same code that was in the book, because, as I found out, it was written for the old `mongo` command, not the modern `mongosh` command (See known issues below).
+
+Hopefully this repo helps out someone else too.
 
 ## Known issues (with the book)
 
@@ -29,7 +31,7 @@ If I had realised this book was published in 2014 I probably wouldn't have bough
 I put together an ansible playbook to configure my Vagrant environment based in the installation instructions at: 
 https://www.mongodb.com/docs/manual/administration/install-community/?operating-system=linux&linux-distribution=ubuntu&linux-package=default&search-linux=with-search-linux
 
-I completely disregarded the installation stepos provided in the book
+I completely disregarded the installation steps provided in the book
 
 
 see the vagrant_ansible folder for the files needed to set this up.
